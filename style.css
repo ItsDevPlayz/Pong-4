@@ -1,0 +1,46 @@
+
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+
+.heading h3{
+    display: inline;
+}
+.heading{
+    width: 100%;
+    text-align: left;
+}
+#play,#status,#restart{
+    font-size: 22px;
+    font-family: monospace;
+    letter-spacing: 2px;
+}
+.copyright{
+    bottom: 0px;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    background-color: white;
+    color: black;
+    line-height: 3;
+    font-size: 20px;
+    font-family: monospace;
+    letter-spacing: 5px;
+
+}
+
+canvas{
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+
+li{
+    text-align: left;
+    font-size: 25px;
+}
+
+.modal-dialog{
+    width: 50%;
+
+}
